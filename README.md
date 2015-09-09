@@ -1,4 +1,5 @@
 ### OpenCV: Open Source Computer Vision Library
+http://vinacode.net/2014/09/05/ngon-ngu-lap-trinh-c/
 
 [![Gittip](http://img.shields.io/gittip/OpenCV.png)](https://www.gittip.com/OpenCV/)
 
